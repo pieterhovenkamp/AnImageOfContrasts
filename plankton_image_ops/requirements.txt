@@ -1,0 +1,14 @@
+python 3.9
+imagesize 1.4.1
+matplotlib 3.6.2
+numpy 1.23.3
+opencv-python 4.6.0.66
+pandas 1.5
+pillow 9.2.0
+scikit-image 0.19.3
+scipy 1.11.4
+zipfile
+
+general_utils.df_sample
+general_utils.parse_folder
+general_utils.pickle_functions

@@ -1,0 +1,17 @@
+python 3.9
+tensorflow 2.10
+tensorflow-addons 0.18.0
+tensorflow-hub 0.12.0
+keras-tuner 1.1.3
+numpy 1.23.3
+pandas 1.5
+scikit-learn 1.1.2
+scikit-image 0.19.3
+scipy 1.9.2
+matplotlib 3.6.2
+scipy 1.11.4
+
+general_utils.parse_folder
+general_utils.pickle_functions
+
+cnn_evaluate.calc_classifier_metrics

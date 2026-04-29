@@ -1,0 +1,8 @@
+python 3.9
+numpy 1.23.3
+pandas 1.5
+pyproj 3.4.1
+gpxpy 1.5.0
+gsw 3.6.16
+
+general_utils.parse_folder
